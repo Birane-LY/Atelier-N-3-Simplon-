@@ -2,7 +2,7 @@
 #Créez une nouvelle liste qui contient uniquement les nombres supérieurs ou égaux à 0
 #(nombres non négatifs).Affichez la nouvelle liste.
 
-
+Liste =[]
 List = []
 
 List_1 = []
